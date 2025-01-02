@@ -1,0 +1,81 @@
+meaning
+something that one wishes to convey, especially by language
+
+term
+a word whose definition is in a glossary
+
+word
+a string of characters in a language, which has at least one character
+
+definition
+a sequence of words that gives meaning to a term
+
+glossary
+a list of difficult or specialized terms, with their definitions,
+usually near the end of a book
+
+language
+a set of strings of characters, each of which has meaning
+
+book
+a printed or written literary work
+
+character
+A symbol, letter, or number that is part of a writing system or language.
+
+sentence
+A sequence of words in a language that expresses a complete thought.
+
+paragraph
+A distinct section of a piece of writing that begins on a new line, often focusing on a single topic.
+
+text
+A coherent piece of written or printed words, sentences, or paragraphs conveying information or ideas.
+
+index
+An alphabetical list of terms or topics, often with page numbers, found at the end of a book.
+
+document
+A written, printed, or electronic text that provides information, evidence, or serves a specific purpose.
+
+dictionary
+A reference book or online resource that contains words and their definitions, pronunciations, and other details.
+
+alphabet
+A set of letters or symbols arranged in a specific order, representing the basic units of a written language.
+
+punctuation
+Marks, such as commas, periods, and question marks, used in writing to clarify meaning and separate elements.
+
+syntax
+The set of rules that govern the structure of sentences in a language.
+
+semantics
+The study of meaning in language, including the meaning of words, phrases, and sentences.
+
+lexicon
+The vocabulary of a language, group, or individual.
+
+phrase
+A group of words that work together but do not form a complete sentence.
+
+literature
+Written works, especially those considered to have artistic or intellectual value.
+
+vocabulary
+The set of words known and used by a person or contained in a particular language.
+
+translation
+The process of converting text or speech from one language into another.
+
+manuscript
+A handwritten or typed document, especially one prepared for publication.
+
+author
+A person who writes books, articles, or other literary works.
+
+edition
+A particular version or form of a published text, often revised or updated.
+
+title
+The name of a book, article, or other work, usually indicating its subject or focus.
